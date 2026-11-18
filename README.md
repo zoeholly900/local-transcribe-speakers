@@ -7,7 +7,7 @@
 **把这句话丢给你的 agent（Claude Code / Codex / WorkBuddy）：**
 
 ```text
-请按 <仓库地址> 中的 AGENTS.md，在我的电脑上安装并运行这个项目，
+请按 https://github.com/zoeholly900/local-transcribe-speakers 中的 AGENTS.md，在我的电脑上安装并运行这个项目，
 把「<录音完整路径>」转成文字、分出谁在说话，交给我 Markdown 和 JSON。
 首次下载模型约 2GB，请先告诉我并等我同意；不要上传录音或转写结果。
 ```
